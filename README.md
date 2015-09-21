@@ -12,7 +12,7 @@ $ gem install fluent-plugin-loadaverage
 ```
 <source>
   type loadaverage
-  tag  loadaverage
+  tag loadaverage
   interval 10
 </source>
 ```
